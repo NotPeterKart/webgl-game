@@ -1,0 +1,32 @@
+BUGFIXES
+- fixed health flickering
+
+LEVEL 1a
+- removed testbox skip in level 1a
+- removed moving door in level 1a
+- added text
+
+LEVEL 1b
+- added a roof to the pillar in level 1b
+
+LEVEL 1d
+- reverted the finish texture in level 1d
+
+LEVEL 2
+- fixed texture clipping
+- fixed a moving cube traveling too far
+- redesigned the moving objects
+- removed the health block
+- adjusted a cube placement in vertical section
+
+LEVEL 3a
+- isolated the warp pencil from the others
+
+LEVEL 4
+- increased health to 1500
+- increased max health to 3000
+
+NOTES
+- the lack of a pause screen is intentional, and only 1 level has moving objects that doesn't come back to you
+- holding del exits to the menu
+- the screen now shakes and the player turns black when player is damaged
